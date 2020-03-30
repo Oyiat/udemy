@@ -129,28 +129,52 @@ CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o.provides: CMakeFiles/
 CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o.provides.build: CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o
 
 
-CMakeFiles/udemy.dir/tp4_conditions/main.c.o: CMakeFiles/udemy.dir/flags.make
-CMakeFiles/udemy.dir/tp4_conditions/main.c.o: ../tp4_conditions/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/udemy.dir/tp4_conditions/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/udemy.dir/tp4_conditions/main.c.o   -c "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_conditions/main.c"
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o: CMakeFiles/udemy.dir/flags.make
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o: ../tp4_pair_ou_impair/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o   -c "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_pair_ou_impair/main.c"
 
-CMakeFiles/udemy.dir/tp4_conditions/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/udemy.dir/tp4_conditions/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_conditions/main.c" > CMakeFiles/udemy.dir/tp4_conditions/main.c.i
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_pair_ou_impair/main.c" > CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.i
 
-CMakeFiles/udemy.dir/tp4_conditions/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/udemy.dir/tp4_conditions/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_conditions/main.c" -o CMakeFiles/udemy.dir/tp4_conditions/main.c.s
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_pair_ou_impair/main.c" -o CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.s
 
-CMakeFiles/udemy.dir/tp4_conditions/main.c.o.requires:
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.requires:
 
-.PHONY : CMakeFiles/udemy.dir/tp4_conditions/main.c.o.requires
+.PHONY : CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.requires
 
-CMakeFiles/udemy.dir/tp4_conditions/main.c.o.provides: CMakeFiles/udemy.dir/tp4_conditions/main.c.o.requires
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.o.provides.build
-.PHONY : CMakeFiles/udemy.dir/tp4_conditions/main.c.o.provides
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.provides: CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.requires
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.provides.build
+.PHONY : CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.provides
 
-CMakeFiles/udemy.dir/tp4_conditions/main.c.o.provides.build: CMakeFiles/udemy.dir/tp4_conditions/main.c.o
+CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.provides.build: CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o
+
+
+CMakeFiles/udemy.dir/tp5_conditions/main.c.o: CMakeFiles/udemy.dir/flags.make
+CMakeFiles/udemy.dir/tp5_conditions/main.c.o: ../tp5_conditions/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/udemy.dir/tp5_conditions/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/udemy.dir/tp5_conditions/main.c.o   -c "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp5_conditions/main.c"
+
+CMakeFiles/udemy.dir/tp5_conditions/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/udemy.dir/tp5_conditions/main.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp5_conditions/main.c" > CMakeFiles/udemy.dir/tp5_conditions/main.c.i
+
+CMakeFiles/udemy.dir/tp5_conditions/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/udemy.dir/tp5_conditions/main.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp5_conditions/main.c" -o CMakeFiles/udemy.dir/tp5_conditions/main.c.s
+
+CMakeFiles/udemy.dir/tp5_conditions/main.c.o.requires:
+
+.PHONY : CMakeFiles/udemy.dir/tp5_conditions/main.c.o.requires
+
+CMakeFiles/udemy.dir/tp5_conditions/main.c.o.provides: CMakeFiles/udemy.dir/tp5_conditions/main.c.o.requires
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp5_conditions/main.c.o.provides.build
+.PHONY : CMakeFiles/udemy.dir/tp5_conditions/main.c.o.provides
+
+CMakeFiles/udemy.dir/tp5_conditions/main.c.o.provides.build: CMakeFiles/udemy.dir/tp5_conditions/main.c.o
 
 
 # Object files for target udemy
@@ -158,7 +182,8 @@ udemy_OBJECTS = \
 "CMakeFiles/udemy.dir/tp1_syntaxe_et_structure/main.c.o" \
 "CMakeFiles/udemy.dir/tp2_memoire_et_variable/main.c.o" \
 "CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o" \
-"CMakeFiles/udemy.dir/tp4_conditions/main.c.o"
+"CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o" \
+"CMakeFiles/udemy.dir/tp5_conditions/main.c.o"
 
 # External object files for target udemy
 udemy_EXTERNAL_OBJECTS =
@@ -166,10 +191,11 @@ udemy_EXTERNAL_OBJECTS =
 udemy: CMakeFiles/udemy.dir/tp1_syntaxe_et_structure/main.c.o
 udemy: CMakeFiles/udemy.dir/tp2_memoire_et_variable/main.c.o
 udemy: CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o
-udemy: CMakeFiles/udemy.dir/tp4_conditions/main.c.o
+udemy: CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o
+udemy: CMakeFiles/udemy.dir/tp5_conditions/main.c.o
 udemy: CMakeFiles/udemy.dir/build.make
 udemy: CMakeFiles/udemy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable udemy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable udemy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/udemy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -180,7 +206,8 @@ CMakeFiles/udemy.dir/build: udemy
 CMakeFiles/udemy.dir/requires: CMakeFiles/udemy.dir/tp1_syntaxe_et_structure/main.c.o.requires
 CMakeFiles/udemy.dir/requires: CMakeFiles/udemy.dir/tp2_memoire_et_variable/main.c.o.requires
 CMakeFiles/udemy.dir/requires: CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o.requires
-CMakeFiles/udemy.dir/requires: CMakeFiles/udemy.dir/tp4_conditions/main.c.o.requires
+CMakeFiles/udemy.dir/requires: CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o.requires
+CMakeFiles/udemy.dir/requires: CMakeFiles/udemy.dir/tp5_conditions/main.c.o.requires
 
 .PHONY : CMakeFiles/udemy.dir/requires
 

@@ -87,7 +87,10 @@
 		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp3_operations_sur_variables/main.c">
 			<Option target="udemy"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_conditions/main.c">
+		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_pair_ou_impair/main.c">
+			<Option target="udemy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp5_conditions/main.c">
 			<Option target="udemy"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/CMakeLists.txt">

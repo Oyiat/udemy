@@ -204,32 +204,59 @@ tp3_operations_sur_variables/main.c.s:
 	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.s
 .PHONY : tp3_operations_sur_variables/main.c.s
 
-tp4_conditions/main.o: tp4_conditions/main.c.o
+tp4_pair_ou_impair/main.o: tp4_pair_ou_impair/main.c.o
 
-.PHONY : tp4_conditions/main.o
+.PHONY : tp4_pair_ou_impair/main.o
 
 # target to build an object file
-tp4_conditions/main.c.o:
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.o
-.PHONY : tp4_conditions/main.c.o
+tp4_pair_ou_impair/main.c.o:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.o
+.PHONY : tp4_pair_ou_impair/main.c.o
 
-tp4_conditions/main.i: tp4_conditions/main.c.i
+tp4_pair_ou_impair/main.i: tp4_pair_ou_impair/main.c.i
 
-.PHONY : tp4_conditions/main.i
+.PHONY : tp4_pair_ou_impair/main.i
 
 # target to preprocess a source file
-tp4_conditions/main.c.i:
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.i
-.PHONY : tp4_conditions/main.c.i
+tp4_pair_ou_impair/main.c.i:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.i
+.PHONY : tp4_pair_ou_impair/main.c.i
 
-tp4_conditions/main.s: tp4_conditions/main.c.s
+tp4_pair_ou_impair/main.s: tp4_pair_ou_impair/main.c.s
 
-.PHONY : tp4_conditions/main.s
+.PHONY : tp4_pair_ou_impair/main.s
 
 # target to generate assembly for a file
-tp4_conditions/main.c.s:
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.s
-.PHONY : tp4_conditions/main.c.s
+tp4_pair_ou_impair/main.c.s:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_pair_ou_impair/main.c.s
+.PHONY : tp4_pair_ou_impair/main.c.s
+
+tp5_conditions/main.o: tp5_conditions/main.c.o
+
+.PHONY : tp5_conditions/main.o
+
+# target to build an object file
+tp5_conditions/main.c.o:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp5_conditions/main.c.o
+.PHONY : tp5_conditions/main.c.o
+
+tp5_conditions/main.i: tp5_conditions/main.c.i
+
+.PHONY : tp5_conditions/main.i
+
+# target to preprocess a source file
+tp5_conditions/main.c.i:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp5_conditions/main.c.i
+.PHONY : tp5_conditions/main.c.i
+
+tp5_conditions/main.s: tp5_conditions/main.c.s
+
+.PHONY : tp5_conditions/main.s
+
+# target to generate assembly for a file
+tp5_conditions/main.c.s:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp5_conditions/main.c.s
+.PHONY : tp5_conditions/main.c.s
 
 # Help Target
 help:
@@ -249,9 +276,12 @@ help:
 	@echo "... tp3_operations_sur_variables/main.o"
 	@echo "... tp3_operations_sur_variables/main.i"
 	@echo "... tp3_operations_sur_variables/main.s"
-	@echo "... tp4_conditions/main.o"
-	@echo "... tp4_conditions/main.i"
-	@echo "... tp4_conditions/main.s"
+	@echo "... tp4_pair_ou_impair/main.o"
+	@echo "... tp4_pair_ou_impair/main.i"
+	@echo "... tp4_pair_ou_impair/main.s"
+	@echo "... tp5_conditions/main.o"
+	@echo "... tp5_conditions/main.i"
+	@echo "... tp5_conditions/main.s"
 .PHONY : help
 
 
