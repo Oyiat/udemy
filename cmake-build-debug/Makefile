@@ -123,32 +123,113 @@ udemy/fast:
 	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/build
 .PHONY : udemy/fast
 
-main.o: main.c.o
+tp1_syntaxe_et_structure/main.o: tp1_syntaxe_et_structure/main.c.o
 
-.PHONY : main.o
+.PHONY : tp1_syntaxe_et_structure/main.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/main.c.o
-.PHONY : main.c.o
+tp1_syntaxe_et_structure/main.c.o:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp1_syntaxe_et_structure/main.c.o
+.PHONY : tp1_syntaxe_et_structure/main.c.o
 
-main.i: main.c.i
+tp1_syntaxe_et_structure/main.i: tp1_syntaxe_et_structure/main.c.i
 
-.PHONY : main.i
+.PHONY : tp1_syntaxe_et_structure/main.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/main.c.i
-.PHONY : main.c.i
+tp1_syntaxe_et_structure/main.c.i:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp1_syntaxe_et_structure/main.c.i
+.PHONY : tp1_syntaxe_et_structure/main.c.i
 
-main.s: main.c.s
+tp1_syntaxe_et_structure/main.s: tp1_syntaxe_et_structure/main.c.s
 
-.PHONY : main.s
+.PHONY : tp1_syntaxe_et_structure/main.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/main.c.s
-.PHONY : main.c.s
+tp1_syntaxe_et_structure/main.c.s:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp1_syntaxe_et_structure/main.c.s
+.PHONY : tp1_syntaxe_et_structure/main.c.s
+
+tp2_memoire_et_variable/main.o: tp2_memoire_et_variable/main.c.o
+
+.PHONY : tp2_memoire_et_variable/main.o
+
+# target to build an object file
+tp2_memoire_et_variable/main.c.o:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp2_memoire_et_variable/main.c.o
+.PHONY : tp2_memoire_et_variable/main.c.o
+
+tp2_memoire_et_variable/main.i: tp2_memoire_et_variable/main.c.i
+
+.PHONY : tp2_memoire_et_variable/main.i
+
+# target to preprocess a source file
+tp2_memoire_et_variable/main.c.i:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp2_memoire_et_variable/main.c.i
+.PHONY : tp2_memoire_et_variable/main.c.i
+
+tp2_memoire_et_variable/main.s: tp2_memoire_et_variable/main.c.s
+
+.PHONY : tp2_memoire_et_variable/main.s
+
+# target to generate assembly for a file
+tp2_memoire_et_variable/main.c.s:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp2_memoire_et_variable/main.c.s
+.PHONY : tp2_memoire_et_variable/main.c.s
+
+tp3_operations_sur_variables/main.o: tp3_operations_sur_variables/main.c.o
+
+.PHONY : tp3_operations_sur_variables/main.o
+
+# target to build an object file
+tp3_operations_sur_variables/main.c.o:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.o
+.PHONY : tp3_operations_sur_variables/main.c.o
+
+tp3_operations_sur_variables/main.i: tp3_operations_sur_variables/main.c.i
+
+.PHONY : tp3_operations_sur_variables/main.i
+
+# target to preprocess a source file
+tp3_operations_sur_variables/main.c.i:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.i
+.PHONY : tp3_operations_sur_variables/main.c.i
+
+tp3_operations_sur_variables/main.s: tp3_operations_sur_variables/main.c.s
+
+.PHONY : tp3_operations_sur_variables/main.s
+
+# target to generate assembly for a file
+tp3_operations_sur_variables/main.c.s:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp3_operations_sur_variables/main.c.s
+.PHONY : tp3_operations_sur_variables/main.c.s
+
+tp4_conditions/main.o: tp4_conditions/main.c.o
+
+.PHONY : tp4_conditions/main.o
+
+# target to build an object file
+tp4_conditions/main.c.o:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.o
+.PHONY : tp4_conditions/main.c.o
+
+tp4_conditions/main.i: tp4_conditions/main.c.i
+
+.PHONY : tp4_conditions/main.i
+
+# target to preprocess a source file
+tp4_conditions/main.c.i:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.i
+.PHONY : tp4_conditions/main.c.i
+
+tp4_conditions/main.s: tp4_conditions/main.c.s
+
+.PHONY : tp4_conditions/main.s
+
+# target to generate assembly for a file
+tp4_conditions/main.c.s:
+	$(MAKE) -f CMakeFiles/udemy.dir/build.make CMakeFiles/udemy.dir/tp4_conditions/main.c.s
+.PHONY : tp4_conditions/main.c.s
 
 # Help Target
 help:
@@ -159,9 +240,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... udemy"
 	@echo "... edit_cache"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... tp1_syntaxe_et_structure/main.o"
+	@echo "... tp1_syntaxe_et_structure/main.i"
+	@echo "... tp1_syntaxe_et_structure/main.s"
+	@echo "... tp2_memoire_et_variable/main.o"
+	@echo "... tp2_memoire_et_variable/main.i"
+	@echo "... tp2_memoire_et_variable/main.s"
+	@echo "... tp3_operations_sur_variables/main.o"
+	@echo "... tp3_operations_sur_variables/main.i"
+	@echo "... tp3_operations_sur_variables/main.s"
+	@echo "... tp4_conditions/main.o"
+	@echo "... tp4_conditions/main.i"
+	@echo "... tp4_conditions/main.s"
 .PHONY : help
 
 

@@ -3,4 +3,4 @@ project(udemy C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(udemy tp1_syntaxe_et_structure/main.c)
+add_executable(udemy tp1_syntaxe_et_structure/main.c tp2_memoire_et_variable/main.c tp3_operations_sur_variables/main.c tp4_conditions/main.c)

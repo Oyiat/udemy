@@ -78,7 +78,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/main.c">
+		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp1_syntaxe_et_structure/main.c">
+			<Option target="udemy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp2_memoire_et_variable/main.c">
+			<Option target="udemy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp3_operations_sur_variables/main.c">
+			<Option target="udemy"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/tp4_conditions/main.c">
 			<Option target="udemy"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/CMakeLists.txt">
