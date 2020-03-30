@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/udemy.dir/main.c.o  -o udemy 

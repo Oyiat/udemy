@@ -1,0 +1,3 @@
+/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles/udemy.dir
+/mnt/c/Users/Joris Lefondeur/CLionProjects/udemy/cmake-build-debug/CMakeFiles/edit_cache.dir
