@@ -13,7 +13,7 @@ int main(){
 
     while(choix_utilisateur){
         do {
-            printf("tentative %d/%d\n", tentatives, TENTATIVE_MAX);
+            printf("tentative: %d/%d\n", tentatives, TENTATIVE_MAX);
             scanf("%d", &nombre_utilisateur);
             tentatives++;
 
@@ -24,7 +24,7 @@ int main(){
             }
         } while (nombre_utilisateur != nombre_mystere && tentatives <= TENTATIVE_MAX);
 
-        printf("Bravo! Le nombre mystère est bien %d\n\n", nombre_mystere);
+        printf("Bravo! Le nombre mystere est bien %d\n\n", nombre_mystere);
 
         printf("Voulez-vous faire une nouvelle partie (1-oui, 2-non)\n");
         scanf("%d", &choix_utilisateur);
