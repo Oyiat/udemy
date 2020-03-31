@@ -3,6 +3,7 @@ project(udemy C)
 
 set(CMAKE_C_STANDARD 99)
 
+add_executable(adresses exercice/adresses_et_variables/main.c)
 add_executable(ASCII exercice/ASCII/main.c)
 add_executable(pair exercice/pair_ou_impair/main.c)
 add_executable(PIN exercice/code_PIN/main.c)
