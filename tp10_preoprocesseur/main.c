@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("TP4 : Pair ou impair\n");
+    printf("TP10 : Preoprocesseur\n");
     return 0;
 }
-
