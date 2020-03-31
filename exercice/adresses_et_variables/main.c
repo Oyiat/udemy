@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Exercice: Addresses et variables\n");
+    printf("Exercice: Adresses et variables\n");
 
     char mon_char = 'A';
     char* p_char = &mon_char;
@@ -11,5 +11,3 @@ int main()
 
     return 0;
 }
-
-
